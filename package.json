@@ -1,7 +1,7 @@
 {
-  "name": "nestjs-package-starter",
-  "version": "1.1.2",
-  "description": "NestJS npm package starter",
+  "name": "@tresdoce/nestjs-filters",
+  "version": "0.0.1",
+  "description": "NestJS package to manage exceptions of communications",
   "author": {
     "name": "Maximiliano \"Mex\" Delgado",
     "email": "mdelgado@tresdoce.com.ar",
@@ -14,7 +14,8 @@
   "keywords": [
     "nestjs",
     "package",
-    "starter"
+    "starter",
+    "filters"
   ],
   "repository": {
     "type": "git",
